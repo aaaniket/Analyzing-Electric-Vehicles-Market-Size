@@ -1,7 +1,5 @@
 # Analyzing-Electric-Vehicles-Market-Size
 
-Title: Project Showcase: Electric Vehicles Market Analysis with Machine Learning Tuning
-
 Description:
 I'm thrilled to share the comprehensive findings of my recent project, which focused on conducting a detailed analysis of the electric vehicle (EV) market utilizing advanced machine learning techniques. Leveraging the data provided, I've delved deep into the intricacies of this rapidly evolving industry to uncover valuable insights and trends.
 
